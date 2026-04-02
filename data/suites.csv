@@ -1,3 +1,5 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","6810","Validating the Registration feature Negative Path -- @1.1 ","","2026-04-02","passed","2026-04-02","","","",""
-"","8547","Validating the Registration feature -- @1.1 ","","2026-04-02","passed","2026-04-02","","","",""
+"","5832","Validating the Registration feature -- @1.2 ","","2026-04-02","passed","2026-04-02","","","",""
+"","5786","Validating the Registration feature Negative Path -- @1.1 ","","2026-04-02","passed","2026-04-02","","","",""
+"","5841","Validating the Registration feature Negative Path -- @1.2 ","","2026-04-02","passed","2026-04-02","","","",""
+"","7243","Validating the Registration feature -- @1.1 ","","2026-04-02","passed","2026-04-02","","","",""
