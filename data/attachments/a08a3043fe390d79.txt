@@ -1,0 +1,6 @@
+Act as an Expert QA Tester
+User opens the Selenium Downloads page.
+User needs the Title of the page and an assert to validate it (share the xpath to find the not title of the page)
+And the user needs the exact xpath to find the title of the page (the xpath to find the visible title of the page)
+And the user validates that the page meets visual presentation standards (share 3 asserts)
+And generate 3 scenarios in guerkin languaje (Given, When, Then) to cover 3 different tests
